@@ -5,4 +5,4 @@ run: build
 	@bin\fs.exe
 
 test:
-	go test ./... -v
+	go test ./...
